@@ -12,4 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[pale1505672421@gmail.com](mailto:pale1505672421@gmail.com)
+mail: [{{site.email}}](mailto:{{site.email}})
+github: [{{ site.github }}]({{site.github}})
